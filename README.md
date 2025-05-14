@@ -37,7 +37,7 @@ Stronghold is a text-based strategy game where players manage a medieval kingdom
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/stronghold.git
+git clone https://github.com/sureshbarach2001/Strong-Hold-Game.git
 cd stronghold
 ```
 
@@ -123,5 +123,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/stronghold](https://github.com/yourusername/stronghold) 
+Suresh Kumar - [@Portfolio](https://sureshkumar2001.vercel.app)
+Project Link: [https://github.com/sureshbarach2001/Strong-Hold-Game.git](https://github.com/sureshbarach2001/Strong-Hold-Game.git)) 
